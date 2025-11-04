@@ -17,9 +17,6 @@ linux-calculator
 ├── scripts
 │   └── init_repo.sh        # Script to initialize the Git repository and project structure
 │                           # 初始化 Git 仓库和项目结构的脚本
-├── tests
-│   └── test_calculator.py   # Unit tests for the calculator application
-│                            # 计算器应用程序的单元测试
 ├── .github
 │   └── workflows
 │       └── python-app.yml   # GitHub Actions workflow configuration for CI/CD
